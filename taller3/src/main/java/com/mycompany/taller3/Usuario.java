@@ -31,9 +31,13 @@ public class Usuario {
     
     protected boolean logIn(){
     //metodo
+        return false;
+    //metodo
     }
     
     protected boolean logOut(){
+    //metodo
+        return false;
     //metodo
     }
 
